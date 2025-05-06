@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/",
+    "/about-tiger",
+    "/contact",
+    "/products",
+    "/services",
+    "/tiger-lifestyle",
+    "/tiger-living",
+    "/tiger-pictures"
+  ]
+}
