@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tiger World - Angular Application
 
 A beautiful web application showcasing information about tigers, their habitats, and conservation efforts.
@@ -76,3 +77,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
 Project Link: [https://github.com/YOUR_USERNAME/tiger-world](https://github.com/YOUR_USERNAME/tiger-world)
+=======
+# demoangular.ai
+>>>>>>> df2fdfc6addadfeb36b0b4f27e7101c4b7444df1
